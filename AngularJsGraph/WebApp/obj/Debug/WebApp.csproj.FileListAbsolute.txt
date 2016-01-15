@@ -1,0 +1,6 @@
+C:\Learning\AngularJSGraph\WebApp\bin\WebApp.dll.config
+C:\Learning\AngularJSGraph\WebApp\bin\WebApp.dll
+C:\Learning\AngularJSGraph\WebApp\bin\WebApp.pdb
+C:\Learning\AngularJSGraph\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Learning\AngularJSGraph\WebApp\obj\Debug\WebApp.dll
+C:\Learning\AngularJSGraph\WebApp\obj\Debug\WebApp.pdb

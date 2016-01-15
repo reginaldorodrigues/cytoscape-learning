@@ -1,0 +1,33 @@
+{
+    "curly": true,
+    "eqeqeq": true,
+    "immed": true,
+    "latedef": true,
+    "undef": true,
+    "unused": true,
+    "newcap": true,
+    "noarg": true,
+    "sub": true,
+    "eqnull": true,
+    "node": true,
+    "browser": true,
+    "devel": true,
+    "jquery": true,
+    "predef": [
+        "angular",
+        "_",
+        "log4javascript",
+
+        "jasmine",
+        "describe",
+        "it",
+        "beforeEach",
+        "afterEach",
+        "expect",
+        "inject",
+        "spyOn",
+        "Slick",
+
+        "browser"
+    ]
+}
